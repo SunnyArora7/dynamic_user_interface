@@ -1,0 +1,141 @@
+{
+  "offers_section": {
+    "header": {
+      "title": "Offers & Discounts",
+      "title_style": {
+        "font_size": 22,
+        "font_weight": "700",
+        "color": "212121",
+        "text_align": "left",
+        "line_height": 1.6
+      },
+      "see_all": {
+        "text": "See All",
+        "text_style": {
+          "font_size": 16,
+          "font_weight": "600",
+          "color": "8E24AA",
+          "text_align": "right",
+          "letter_spacing": 0.5
+        },
+        "icon": {
+          "name": "arrow_right_alt_outlined",
+          "color": "8E24AA",
+          "size": 22
+        }
+      }
+    },
+    "offers_list": {
+      "scroll_direction": "horizontal",
+      "list_size": 3,
+      "sized_box_size": 140,
+      "items": [
+        {
+          "image": "assets/images/citi.png",
+          "image_size": {
+            "height": 35
+          },
+          "offer_details": {
+            "title": "Extra 10% off on SBI",
+            "title_style": {
+              "font_size": 18,
+              "font_weight": "700",
+              "color": "212121",
+              "text_align": "left"
+            },
+            "description": "Applicable on SBI Credit Cards",
+            "description_style": {
+              "font_size": 15,
+              "font_weight": "500",
+              "overflow": "ellipsis",
+              "color": "424242",
+              "text_align": "left"
+            },
+            "note": "No Code Required",
+            "note_style": {
+              "font_size": 14,
+              "font_weight": "400",
+              "color": "616161",
+              "text_align": "left"
+            }
+          },
+          "container_style": {
+            "background_color": "FFF3E0",
+            "padding": 15,
+            "border_radius": 10
+          }
+        },
+        {
+          "image": "assets/images/visa.png",
+          "image_size": {
+            "height": 35
+          },
+          "offer_details": {
+            "title": "Extra 10% off on Visa",
+            "title_style": {
+              "font_size": 18,
+              "font_weight": "700",
+              "color": "212121",
+              "text_align": "left"
+            },
+            "description": "Applicable on Visa Credit Cards",
+            "description_style": {
+              "font_size": 15,
+              "font_weight": "500",
+              "overflow": "ellipsis",
+              "color": "424242",
+              "text_align": "left"
+            },
+            "note": "No Code Required",
+            "note_style": {
+              "font_size": 14,
+              "font_weight": "400",
+              "color": "616161",
+              "text_align": "left"
+            }
+          },
+          "container_style": {
+            "background_color": "FFF3E0",
+            "padding": 15,
+            "border_radius": 10
+          }
+        },
+        {
+          "image": "assets/images/payment-system.png",
+          "image_size": {
+            "height": 35
+          },
+          "offer_details": {
+            "title": "Extra 10% off on Payments",
+            "title_style": {
+              "font_size": 18,
+              "font_weight": "700",
+              "color": "212121",
+              "text_align": "left"
+            },
+            "description": "Applicable on all Payment Methods",
+            "description_style": {
+              "font_size": 15,
+              "font_weight": "500",
+              "overflow": "ellipsis",
+              "color": "424242",
+              "text_align": "left"
+            },
+            "note": "No Code Required",
+            "note_style": {
+              "font_size": 14,
+              "font_weight": "400",
+              "color": "616161",
+              "text_align": "left"
+            }
+          },
+          "container_style": {
+            "background_color": "FFF3E0",
+            "padding": 15,
+            "border_radius": 10
+          }
+        }
+      ]
+    }
+  }
+}

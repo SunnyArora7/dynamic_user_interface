@@ -1,0 +1,243 @@
+{
+  "title": {
+    "text": "BUY FURNITURE",
+    "style": {
+      "fontSize": 32,
+      "fontWeight": "bold",
+      "fontStyle": "italic",
+      "color": "4A4A4A"
+    }
+  },
+  "categoryItems": [
+    {
+      "name": "Living Room",
+      "image": "assets/images/category_image1.png",
+      "size": {
+        "width": 50,
+        "height": 50
+      },
+      "padding": {
+        "top": 15,
+        "bottom": 15,
+        "left": 10,
+        "right": 10
+      },
+      "alignment": "center",
+      "textStyle": {
+        "fontSize": 15,
+        "fontWeight": "semi-bold",
+        "fontStyle": "normal",
+        "color": "2C3E50"
+      },
+      "imageStyle": {
+        "borderRadius": "12px",
+        "boxShadow": "0 4px 8px rgba(0, 0, 0, 0.1)"
+      }
+    },
+    {
+      "name": "Bedroom",
+      "image": "assets/images/double-bed.png",
+      "size": {
+        "width": 50,
+        "height": 50
+      },
+      "padding": {
+        "top": 15,
+        "bottom": 15,
+        "left": 10,
+        "right": 10
+      },
+      "alignment": "center",
+      "textStyle": {
+        "fontSize": 15,
+        "fontWeight": "semi-bold",
+        "fontStyle": "normal",
+        "color": "2C3E50"
+      },
+      "imageStyle": {
+        "borderRadius": "12px",
+        "boxShadow": "0 4px 8px rgba(0, 0, 0, 0.1)"
+      }
+    },
+    {
+      "name": "Storage",
+      "image": "assets/images/stock.png",
+      "size": {
+        "width": 50,
+        "height": 50
+      },
+      "padding": {
+        "top": 15,
+        "bottom": 15,
+        "left": 10,
+        "right": 10
+      },
+      "alignment": "center",
+      "textStyle": {
+        "fontSize": 15,
+        "fontWeight": "semi-bold",
+        "fontStyle": "normal",
+        "color": "2C3E50"
+      },
+      "imageStyle": {
+        "borderRadius": "12px",
+        "boxShadow": "0 4px 8px rgba(0, 0, 0, 0.1)"
+      }
+    },
+    {
+      "name": "Study",
+      "image": "assets/images/studying.png",
+      "size": {
+        "width": 50,
+        "height": 50
+      },
+      "padding": {
+        "top": 15,
+        "bottom": 15,
+        "left": 10,
+        "right": 10
+      },
+      "alignment": "center",
+      "textStyle": {
+        "fontSize": 15,
+        "fontWeight": "semi-bold",
+        "fontStyle": "normal",
+        "color": "2C3E50"
+      },
+      "imageStyle": {
+        "borderRadius": "12px",
+        "boxShadow": "0 4px 8px rgba(0, 0, 0, 0.1)"
+      }
+    },
+    {
+      "name": "Dining",
+      "image": "assets/images/dining-room.png",
+      "size": {
+        "width": 50,
+        "height": 50
+      },
+      "padding": {
+        "top": 15,
+        "bottom": 15,
+        "left": 10,
+        "right": 10
+      },
+      "alignment": "center",
+      "textStyle": {
+        "fontSize": 15,
+        "fontWeight": "semi-bold",
+        "fontStyle": "normal",
+        "color": "2C3E50"
+      },
+      "imageStyle": {
+        "borderRadius": "12px",
+        "boxShadow": "0 4px 8px rgba(0, 0, 0, 0.1)"
+      }
+    },
+    {
+      "name": "Table",
+      "image": "assets/images/bedside-table.png",
+      "size": {
+        "width": 50,
+        "height": 50
+      },
+      "padding": {
+        "top": 15,
+        "bottom": 15,
+        "left": 10,
+        "right": 10
+      },
+      "alignment": "center",
+      "textStyle": {
+        "fontSize": 15,
+        "fontWeight": "semi-bold",
+        "fontStyle": "normal",
+        "color": "2C3E50"
+      },
+      "imageStyle": {
+        "borderRadius": "12px",
+        "boxShadow": "0 4px 8px rgba(0, 0, 0, 0.1)"
+      }
+    },
+    {
+      "name": "Chairs",
+      "image": "assets/images/wooden-chair.png",
+      "size": {
+        "width": 50,
+        "height": 50
+      },
+      "padding": {
+        "top": 15,
+        "bottom": 15,
+        "left": 10,
+        "right": 10
+      },
+      "alignment": "center",
+      "textStyle": {
+        "fontSize": 15,
+        "fontWeight": "semi-bold",
+        "fontStyle": "normal",
+        "color": "2C3E50"
+      },
+      "imageStyle": {
+        "borderRadius": "12px",
+        "boxShadow": "0 4px 8px rgba(0, 0, 0, 0.1)"
+      }
+    },
+    {
+      "name": "Kitchen",
+      "image": "assets/images/kitchen.png",
+      "size": {
+        "width": 50,
+        "height": 50
+      },
+      "padding": {
+        "top": 15,
+        "bottom": 15,
+        "left": 10,
+        "right": 10
+      },
+      "alignment": "center",
+      "textStyle": {
+        "fontSize": 15,
+        "fontWeight": "semi-bold",
+        "fontStyle": "normal",
+        "color": "2C3E50"
+      },
+      "imageStyle": {
+        "borderRadius": "12px",
+        "boxShadow": "0 4px 8px rgba(0, 0, 0, 0.1)"
+      }
+    },
+    {
+      "name": "Best Deals",
+      "image": "assets/images/best-deal.png",
+      "size": {
+        "width": 50,
+        "height": 50
+      },
+      "padding": {
+        "top": 15,
+        "bottom": 15,
+        "left": 10,
+        "right": 10
+      },
+      "alignment": "center",
+      "textStyle": {
+        "fontSize": 15,
+        "fontWeight": "semi-bold",
+        "fontStyle": "normal",
+        "color": "2C3E50"
+      },
+      "imageStyle": {
+        "borderRadius": "12px",
+        "boxShadow": "0 4px 8px rgba(0, 0, 0, 0.1)"
+      }
+    }
+  ],
+  "layout": {
+    "spacing": 20,
+    "runSpacing": 30,
+    "wrapAlignment": "center"
+  }
+}

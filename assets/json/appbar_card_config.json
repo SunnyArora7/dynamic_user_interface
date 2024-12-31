@@ -1,0 +1,57 @@
+{
+  "appBarName": "Delivery Card",
+  "cardProperties": {
+    "borderRadius": 100.0,
+    "cardColor": "F8F8F8",
+    "borderWidth": 0.1,
+    "elevation": 3,
+    "paddingHorizontal": 12,
+    "paddingVertical": 8
+  },
+  "appBarIconProperties": [
+    {
+      "iconName": "location_on_outlined",
+      "iconSize": 35,
+      "shadowColor": "A1A1A1",
+      "blurRadius": 6,
+      "iconColor": "3C3C3C"
+    },
+    {
+      "iconName": "search",
+      "iconSize": 30,
+      "shadowColor": "A1A1A1",
+      "blurRadius": 6,
+      "iconColor": "3C3C3C"
+    },
+    {
+      "iconName": "favorite_border",
+      "iconSize": 30,
+      "shadowColor": "A1A1A1",
+      "blurRadius": 6,
+      "iconColor": "3C3C3C"
+    },
+    {
+      "iconName": "shopping_cart_outlined",
+      "iconSize": 30,
+      "shadowColor": "A1A1A1",
+      "blurRadius": 6,
+      "iconColor": "3C3C3C"
+    }
+  ],
+  "textProperties": [
+    {
+      "text": "Delivery to",
+      "color": "2C2C2C",
+      "fontSize": 16
+    },
+    {
+      "text": "201301",
+      "color": "1D1D1D",
+      "fontSize": 16
+    }
+  ],
+  "spacingProperties": {
+    "betweenIcons": 10,
+    "betweenIconAndText": 8
+  }
+}

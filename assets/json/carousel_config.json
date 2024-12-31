@@ -1,0 +1,50 @@
+{
+  "uiProperties": {
+    "carousel": {
+      "height": 250,
+      "padding": {
+        "top": 10,
+        "bottom": 10,
+        "left": 12,
+        "right": 12
+      },
+      "margin": {
+        "top": 15,
+        "bottom": 15,
+        "left": 10,
+        "right": 10
+      },
+      "borderRadius": 20,
+      "autoPlay": true,
+      "scrollPhysics": "BouncingScrollPhysics",
+      "aspectRatio": 2,
+      "viewportFraction": 1
+    },
+    "imageIndicators": {
+      "indicatorSize": {
+        "width": 20,
+        "height": 10
+      },
+      "spacing": {
+        "vertical": 10,
+        "horizontal": 2
+      },
+      "activeColor": "000000",
+      "inactiveColor": "808080"
+    },
+    "images": [
+      {
+        "url": "https://beilafitness.7effects.com/product_image/product_image_1690530808.png",
+        "fit": "cover"
+      },
+      {
+        "url": "https://beilafitness.7effects.com/product_image/product_image_1690530828.png",
+        "fit": "cover"
+      },
+      {
+        "url": "https://beilafitness.7effects.com/product_image/product_image_1690531273.png",
+        "fit": "cover"
+      }
+    ]
+  }
+}

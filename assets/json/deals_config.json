@@ -1,0 +1,190 @@
+{
+  "header": {
+    "title": "Deals of the Day",
+    "subtitle": "To buy",
+    "viewAllText": "View All",
+    "textStyle": {
+      "fontSize": 24,
+      "fontWeight": "700",
+      "color": "000000"
+    },
+    "subtitleStyle": {
+      "fontSize": 16,
+      "fontWeight": "600",
+      "color": "333333"
+    },
+    "viewAllStyle": {
+      "fontSize": 16,
+      "fontWeight": "600",
+      "color": "000000"
+    }
+  },
+  "padding": {
+    "all": 10,
+    "vertical": 25,
+    "horizontal": 20
+  },
+  "listView": {
+    "height": 250,
+    "scrollDirection": "horizontal",
+    "separatorWidth": 20,
+    "shrinkWrap": true
+  },
+  "items": [
+    {
+      "image": "assets/images/sofa5.jpeg",
+      "name": "Flex 3 Seater Magic Sofa",
+      "description": "Comfortable, stylish, and affordable.",
+      "discount": "-72% off",
+      "price": "₹1,99,999",
+      "textStyle": {
+        "fontSize": 16,
+        "fontWeight": "600",
+        "color": "000000"
+      },
+      "priceStyle": {
+        "fontSize": 18,
+        "fontWeight": "700",
+        "color": "000000"
+      },
+      "discountStyle": {
+        "fontSize": 24,
+        "fontWeight": "700",
+        "color": "FF0000"
+      },
+      "discountBackgroundColor": "F7DC6F",
+      "cardShape": {
+        "borderRadius": 8,
+        "elevation": 0
+      },
+      "cardPadding": {
+        "horizontal": 26,
+        "vertical": 15
+      }
+    },
+    {
+      "image": "assets/images/sofa1.jpg",
+      "name": "Luxury Recliner Chair",
+      "description": "Perfect for your living room or office.",
+      "discount": "-50% off",
+      "price": "₹59,999",
+      "textStyle": {
+        "fontSize": 16,
+        "fontWeight": "600",
+        "color": "000000"
+      },
+      "priceStyle": {
+        "fontSize": 18,
+        "fontWeight": "700",
+        "color": "000000"
+      },
+      "discountStyle": {
+        "fontSize": 24,
+        "fontWeight": "700",
+        "color": "FF0000"
+      },
+      "discountBackgroundColor": "F7DC6F",
+      "cardShape": {
+        "borderRadius": 8,
+        "elevation": 0
+      },
+      "cardPadding": {
+        "horizontal": 26,
+        "vertical": 15
+      }
+    },
+    {
+      "image": "assets/images/sofa2.jpg",
+      "name": "Modern Lounge Sofa",
+      "description": "A perfect blend of luxury and comfort.",
+      "discount": "-40% off",
+      "price": "₹1,29,999",
+      "textStyle": {
+        "fontSize": 16,
+        "fontWeight": "600",
+        "color": "000000"
+      },
+      "priceStyle": {
+        "fontSize": 18,
+        "fontWeight": "700",
+        "color": "000000"
+      },
+      "discountStyle": {
+        "fontSize": 24,
+        "fontWeight": "700",
+        "color": "FF0000"
+      },
+      "discountBackgroundColor": "F7DC6F",
+      "cardShape": {
+        "borderRadius": 8,
+        "elevation": 0
+      },
+      "cardPadding": {
+        "horizontal": 26,
+        "vertical": 15
+      }
+    },
+    {
+      "image": "assets/images/sofa4.png",
+      "name": "Ergonomic Office Chair",
+      "description": "Designed for all-day comfort.",
+      "discount": "-30% off",
+      "price": "₹9,999",
+      "textStyle": {
+        "fontSize": 16,
+        "fontWeight": "600",
+        "color": "000000"
+      },
+      "priceStyle": {
+        "fontSize": 18,
+        "fontWeight": "700",
+        "color": "000000"
+      },
+      "discountStyle": {
+        "fontSize": 24,
+        "fontWeight": "700",
+        "color": "FF0000"
+      },
+      "discountBackgroundColor": "F7DC6F",
+      "cardShape": {
+        "borderRadius": 8,
+        "elevation": 0
+      },
+      "cardPadding": {
+        "horizontal": 26,
+        "vertical": 15
+      }
+    },
+    {
+      "image": "assets/images/sofa5.jpeg",
+      "name": "Minimalist Sofa Set",
+      "description": "Sleek and elegant design for modern spaces.",
+      "discount": "-60% off",
+      "price": "₹79,999",
+      "textStyle": {
+        "fontSize": 16,
+        "fontWeight": "600",
+        "color": "000000"
+      },
+      "priceStyle": {
+        "fontSize": 18,
+        "fontWeight": "700",
+        "color": "000000"
+      },
+      "discountStyle": {
+        "fontSize": 24,
+        "fontWeight": "700",
+        "color": "FF0000"
+      },
+      "discountBackgroundColor": "F7DC6F",
+      "cardShape": {
+        "borderRadius": 8,
+        "elevation": 0
+      },
+      "cardPadding": {
+        "horizontal": 26,
+        "vertical": 15
+      }
+    }
+  ]
+}

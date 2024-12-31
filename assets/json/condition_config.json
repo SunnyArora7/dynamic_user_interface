@@ -1,0 +1,66 @@
+{
+  "conditionCards": [
+    {
+      "backgroundColor": "#9B77C5",
+      "icon": {
+        "name": "shopping_bag_outlined",
+        "size": 50,
+        "color": "#4B1D7B"
+      },
+      "title": {
+        "text": "BUY",
+        "style": {
+          "fontSize": 15,
+          "color": "#4B1D7B",
+          "fontWeight": "w500"
+        }
+      },
+      "subtitle": {
+        "text": "Brand New",
+        "style": {
+          "fontSize": 25,
+          "color": "#4B1D7B",
+          "fontWeight": "w500"
+        }
+      },
+      "arrowIcon": {
+        "name": "arrow_right_alt_outlined",
+        "size": null,
+        "color": "#4B1D7B"
+      }
+    },
+    {
+      "backgroundColor": "#61D1C8",
+      "icon": {
+        "name": "recycling",
+        "size": 50,
+        "color": "#026F61"
+      },
+      "title": {
+        "text": "BUY",
+        "style": {
+          "fontSize": 15,
+          "color": "#026F61",
+          "fontWeight": "w500"
+        }
+      },
+      "subtitle": {
+        "text": "Refurbished",
+        "style": {
+          "fontSize": 25,
+          "color": "#026F61",
+          "fontWeight": "w500"
+        }
+      },
+      "arrowIcon": {
+        "name": "arrow_right_alt_outlined",
+        "size": null,
+        "color": "#026F61"
+      }
+    }
+  ],
+  "padding": {
+    "horizontal": 2,
+    "vertical": 25
+  }
+}
