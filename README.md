@@ -1,7 +1,7 @@
 # dynamic_ui_task
 
 <p align="center">
-  <img src="https://github.com/mrcodefrost/emd_project/blob/main/repo%20resources/sr_1.gif" width="250" alt="sr_1"/>
+  <img src="https://github.com/SunnyArora7/dynamic_user_interface/blob/main/repo_resources/app.gif" width="250" alt="sr_1"/>
   
 </p>
 
