@@ -1,16 +1,33 @@
 # dynamic_ui_task
 
-A new Flutter project.
+<p align="center">
+  <img src="https://github.com/mrcodefrost/emd_project/blob/main/repo%20resources/sr_1.gif" width="250" alt="sr_1"/>
+  
+</p>
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the repository to your local machine:
+
+ ```bash
+   git clone https://github.com/SunnyArora7/dynamic_user_interface.git
+ ```
+
+2. Navigate to the project directory:
+
+ ```bash
+   cd dynamic_user_interface
+ ```
+
+3. Install dependencies by running this command in IDE terminal:
+
+ ```bash
+   flutter pub get
+ ```
+
+### Download the app
+
+Download the android app from [Release](https://github.com/SunnyArora7/dynamic_user_interface/releases/tag/Release)
